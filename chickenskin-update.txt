@@ -1,2 +1,2 @@
 current-version=0.1
-link=https://github.com/Jeong3954/Upload/blob/main/ChickenSkin-Update.txt=.minecraft
+link="https://github.com/Jeong3954/Upload/blob/main/ChickenSkin-Update.txt"=".minecraft"
