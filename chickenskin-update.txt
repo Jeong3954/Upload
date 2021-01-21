@@ -1,7 +1,7 @@
-//현재 버전
+##현재 버전
 current-version=0.1
 
-//모드 다운로드
+##모드 다운로드
 link="https://media.forgecdn.net/files/2460/821/Blur-1.0.4-14.jar"=".chickenskin\mods\"
 link="https://github.com/Jeong3954/Upload/releases/download/0.1/koreanchat-creo-1.12-1.9.jar"=".chickenskin\mods\"
 link="https://media.forgecdn.net/files/3047/154/OnlinePicFrame_v1.5.0-pre1_mc1.12.2.jar"=".chickenskin\mods\"
