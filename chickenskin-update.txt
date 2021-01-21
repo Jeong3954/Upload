@@ -16,3 +16,12 @@ link="http://plushie.moe:8080/job/Armourers-Workshop-1.12.2-Dev/659/artifact/bui
 link="https://media.forgecdn.net/files/2574/880/BiblioCraft%5bv2.4.5%5d%5bMC1.12.2%5d.jar"=".chickenskin\mods\"
 link="https://media.forgecdn.net/files/2996/912/CustomNPCs_1.12.2-(05Jul20).jar"=".chickenskin\mods\"
 link="https://media.forgecdn.net/files/2777/813/Decocraft-2.6.3_1.12.2.jar"=".chickenskin\mods\"
+
+//리소스 다운로드
+link="https://github.com/Jeong3954/Upload/releases/download/0.1/config.zip"=".chickenskin\"
+link="https://github.com/Jeong3954/Upload/releases/download/0.1/fonts.zip"=".chickenskin\"
+link="https://github.com/Jeong3954/Upload/releases/download/0.1/icon.png"=".chickenskin\"
+link="https://github.com/Jeong3954/Upload/releases/download/0.1/resourcepacks.zip"=".chickenskin\"
+link="https://github.com/Jeong3954/Upload/releases/download/0.1/option.txt"=".chickenskin\"
+link="https://github.com/Jeong3954/Upload/releases/download/0.1/versions.zip"=".minecraft\"
+link="https://github.com/Jeong3954/Upload/releases/download/0.1/launcher_profiles.json"=".minecraft\"
