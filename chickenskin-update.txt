@@ -25,3 +25,6 @@ link="https://github.com/Jeong3954/Upload/releases/download/0.1/resourcepacks.zi
 link="https://github.com/Jeong3954/Upload/releases/download/0.1/option.txt"=".minecraft\"
 link="https://github.com/Jeong3954/Upload/releases/download/0.1/versions.zip"=".minecraft\"
 link="https://github.com/Jeong3954/Upload/releases/download/0.1/launcher_profiles.json"=".minecraft\"
+link="https://github.com/Jeong3954/Upload/releases/download/0.1/launcher_ui_state.json"=".minecraft\"
+link="https://github.com/Jeong3954/Upload/releases/download/0.1/assets.zip"=".minecraft\"
+link="https://github.com/Jeong3954/Upload/releases/download/0.1/libraries.zip"=".minecraft\"
