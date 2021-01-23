@@ -15,7 +15,7 @@ link="https://media.forgecdn.net/files/3173/840/CreativeCore_v1.10.44_mc1.12.2.j
 link="https://media.forgecdn.net/files/2941/712/worldedit-forge-mc1.12.2-6.1.10-dist.jar"=".minecraft\mods\"
 link="https://github.com/Jeong3954/Upload/releases/download/0.1/OptiFine_1.12.2_HD_U_E3.jar"=".minecraft\mods\"
 link="https://media.forgecdn.net/files/2749/993/furniture-6.3.1-1.12.2.jar"=".minecraft\mods\"
-link="http://plushie.moe:8080/job/Armourers-Workshop-1.12.2-Dev/659/artifact/build/libs/Armourers-Workshop-1.12.2-0.51.0.659.jar"=".minecraft\mods\"
+link="https://media.forgecdn.net/files/3101/995/Armourers-Workshop-1.12.2-0.51.0.jar"=".minecraft\mods\"
 link="https://media.forgecdn.net/files/2574/880/BiblioCraft%5bv2.4.5%5d%5bMC1.12.2%5d.jar"=".minecraft\mods\"
 link="https://media.forgecdn.net/files/2996/912/CustomNPCs_1.12.2-(05Jul20).jar"=".minecraft\mods\"
 link="https://media.forgecdn.net/files/2777/813/Decocraft-2.6.3_1.12.2.jar"=".minecraft\mods\"
