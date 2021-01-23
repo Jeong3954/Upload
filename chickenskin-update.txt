@@ -32,3 +32,4 @@ link="https://github.com/Jeong3954/Upload/releases/download/0.1/launcher_ui_stat
 link="https://github.com/Jeong3954/Upload/releases/download/0.1/assets.zip"=".minecraft\"
 link="https://github.com/Jeong3954/Upload/releases/download/0.1/libraries.zip"=".minecraft\"
 link="https://github.com/Jeong3954/Upload/releases/download/0.1/servers.dat"=".minecraft\"
+link="https://github.com/Jeong3954/Upload/releases/download/0.1/armourers_workshop.zip"=".minecraft\"
