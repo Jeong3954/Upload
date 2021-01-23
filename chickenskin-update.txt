@@ -1,6 +1,9 @@
 ##현재 버전
 current-version=0.1
 
+##컨텐츠이름
+contents-name=WinterStory
+
 ##모드 다운로드
 link="https://media.forgecdn.net/files/2460/821/Blur-1.0.4-14.jar"=".minecraft/mods/"
 link="https://github.com/Jeong3954/Upload/releases/download/0.1/koreanchat-creo-1.12-1.9.jar"=".minecraft\mods\"
