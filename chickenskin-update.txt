@@ -1,5 +1,5 @@
 ##현재 버전
-current-version=0.1
+current-version=0.2
 
 ##컨텐츠이름
 contents-name=WinterStory
