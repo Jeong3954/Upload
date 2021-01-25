@@ -17,7 +17,7 @@ link="https://media.forgecdn.net/files/3101/995/Armourers-Workshop-1.12.2-0.51.0
 link="https://media.forgecdn.net/files/2574/880/BiblioCraft%5bv2.4.5%5d%5bMC1.12.2%5d.jar"=".minecraft\mods\"
 link="https://media.forgecdn.net/files/2996/912/CustomNPCs_1.12.2-(05Jul20).jar"=".minecraft\mods\"
 link="https://media.forgecdn.net/files/2777/813/Decocraft-2.6.3_1.12.2.jar"=".minecraft\mods\"
-link="https://github.com/Jeong3954/Upload/releases/download/0.1/OnlinePicFrame_v1.4.36_mc1.12.2.jar"=".minecraft\mods\"
+link="https://media.forgecdn.net/files/3047/154/OnlinePicFrame_v1.5.0-pre1_mc1.12.2.jar"=".minecraft\mods\"
 link="https://github.com/Jeong3954/Upload/releases/download/0.1/CreativeCore_v1.10.34_mc1.12.2.jar"=".minecraft\mods\"
 
 ##리소스 다운로드
